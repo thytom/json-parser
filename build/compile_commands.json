@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/archie/Projects/Personal/C++/json-parser/build",
+  "command": "/usr/bin/c++ -I/home/archie/Projects/Personal/C++/json-parser/app/include -I/home/archie/Projects/Personal/C++/json-parser/jsonparser/include -o app/CMakeFiles/main.dir/src/main.cpp.o -c /home/archie/Projects/Personal/C++/json-parser/app/src/main.cpp",
+  "file": "/home/archie/Projects/Personal/C++/json-parser/app/src/main.cpp"
+},
+{
+  "directory": "/home/archie/Projects/Personal/C++/json-parser/build",
+  "command": "/usr/bin/c++ -I/home/archie/Projects/Personal/C++/json-parser/jsonparser/include -std=gnu++20 -o jsonparser/CMakeFiles/jsonparser.dir/src/jsonparser.cpp.o -c /home/archie/Projects/Personal/C++/json-parser/jsonparser/src/jsonparser.cpp",
+  "file": "/home/archie/Projects/Personal/C++/json-parser/jsonparser/src/jsonparser.cpp"
+},
+{
+  "directory": "/home/archie/Projects/Personal/C++/json-parser/build",
+  "command": "/usr/bin/c++ -I/home/archie/Projects/Personal/C++/json-parser/jsonparser/include -std=gnu++20 -o jsonparser/CMakeFiles/jsonparser.dir/src/lexer.cpp.o -c /home/archie/Projects/Personal/C++/json-parser/jsonparser/src/lexer.cpp",
+  "file": "/home/archie/Projects/Personal/C++/json-parser/jsonparser/src/lexer.cpp"
+}
+]

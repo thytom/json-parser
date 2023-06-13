@@ -1,0 +1,8 @@
+/home/archie/Projects/Personal/C++/json-parser/build/CMakeFiles/edit_cache.dir
+/home/archie/Projects/Personal/C++/json-parser/build/CMakeFiles/rebuild_cache.dir
+/home/archie/Projects/Personal/C++/json-parser/build/app/CMakeFiles/main.dir
+/home/archie/Projects/Personal/C++/json-parser/build/app/CMakeFiles/edit_cache.dir
+/home/archie/Projects/Personal/C++/json-parser/build/app/CMakeFiles/rebuild_cache.dir
+/home/archie/Projects/Personal/C++/json-parser/build/jsonparser/CMakeFiles/jsonparser.dir
+/home/archie/Projects/Personal/C++/json-parser/build/jsonparser/CMakeFiles/edit_cache.dir
+/home/archie/Projects/Personal/C++/json-parser/build/jsonparser/CMakeFiles/rebuild_cache.dir

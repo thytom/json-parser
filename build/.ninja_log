@@ -1,0 +1,20 @@
+# ninja log v5
+232	254	1686688674726315034	jsonparser/libjsonparser.a	a6a95419995c39f3
+1	232	1686688674706315039	jsonparser/CMakeFiles/jsonparser.dir/src/lexer.cpp.o	9dc421e33c7957a
+254	291	1686688674766315025	app/main	2442fa58e11bcef3
+1	286	1686691797135703696	app/CMakeFiles/main.dir/src/main.cpp.o	1d8f4390586356d
+1	11	1686685836056869437	jsonparser/CMakeFiles/jsonparser.dir/src/jsonparser.cpp.o	1f83938d0bd984ff
+0	20	1686691831935696780	build.ninja	2c63dd54c678ef22
+221	254	1686685214896990559	main	81f36c25e2c079f0
+1	10	1686691832585696649	jsonparser/CMakeFiles/jsonparser.dir/src/jsonparser.cpp.o	6cce81e0c4891fd5
+0	241	1686691832815696605	app/CMakeFiles/main.dir/src/main.cpp.o	1d8f4390586356d
+1	283	1686692136035637332	app/CMakeFiles/main.dir/src/main.cpp.o	1d8f4390586356d
+1	351	1686692144435635824	jsonparser/CMakeFiles/jsonparser.dir/src/lexer.cpp.o	143ea3919d1b5382
+351	499	1686692144585635800	jsonparser/libjsonparser.a	a6a95419995c39f3
+499	549	1686692144635635790	app/main	2442fa58e11bcef3
+1	352	1686692208635623911	jsonparser/CMakeFiles/jsonparser.dir/src/lexer.cpp.o	143ea3919d1b5382
+352	376	1686692208655623907	jsonparser/libjsonparser.a	a6a95419995c39f3
+376	418	1686692208705623896	app/main	2442fa58e11bcef3
+0	350	1686692232755619238	jsonparser/CMakeFiles/jsonparser.dir/src/lexer.cpp.o	143ea3919d1b5382
+350	373	1686692232775619234	jsonparser/libjsonparser.a	a6a95419995c39f3
+373	409	1686692232815619227	app/main	2442fa58e11bcef3
